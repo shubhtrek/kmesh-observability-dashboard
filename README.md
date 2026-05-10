@@ -161,7 +161,7 @@ The dashboard automatically:
 ## Live Demo
 
 ```text
-https://your-live-demo-link.com
+https://shubhtrek-kmesh-observability-dashb-beta.vercel.app/
 ```
 
 ---
